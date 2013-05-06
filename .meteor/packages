@@ -8,3 +8,5 @@ preserve-inputs
 standard-app-packages
 bootstrap
 iron-router
+accounts-ui-bootstrap-dropdown
+accounts-password
